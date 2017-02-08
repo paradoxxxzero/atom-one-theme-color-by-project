@@ -5,7 +5,7 @@
   "description": "Patch atom one light and one dark theme to change the hue depending on the current project(s) name.",
   "keywords": [
   ],
-  "repository": "https://github.com/paradoxxxzero/one-theme-color-by-project",
+  "repository": "https://github.com/paradoxxxzero/atom-one-theme-color-by-project",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
