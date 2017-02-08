@@ -1,15 +1,13 @@
 {
   "name": "one-theme-color-by-project",
   "main": "./lib/one-theme-color-by-project",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Patch atom one light and one dark theme to change the hue depending on the current project(s) name.",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/paradoxxxzero/atom-one-theme-color-by-project",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
