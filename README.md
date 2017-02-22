@@ -1,6 +1,6 @@
 # one-theme-color-by-project package
 
-Colorize Atom One Light and Atom One Dark themes according to the current project:
+Colorize [Atom One Light](https://atom.io/themes/one-light-ui) and [Atom One Dark](https://atom.io/themes/one-dark-ui) themes according to the current project:
 
 ![screenshot from 2017-02-08 16-20-33](https://cloud.githubusercontent.com/assets/271144/22743462/8cee6d1c-ee1a-11e6-9296-4f19bbb713dc.png)
 ![screenshot from 2017-02-08 16-20-26](https://cloud.githubusercontent.com/assets/271144/22743463/8d04b34c-ee1a-11e6-8a8a-531b196e3a39.png)
