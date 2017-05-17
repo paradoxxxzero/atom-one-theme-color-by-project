@@ -14,3 +14,13 @@ Colorize Atom One Light and Atom One Dark themes according to the current projec
 
 You must have one-light/dark-ui/syntax theme activated for this package to work.
 It will change the hue of the ui/syntax according to the current project name.
+
+Main brightness and saturation values are configurable. Base hue could be
+changed if the project -> hue mapping doesn't suit you.
+
+## Nota Bene
+You will have to change the default values if you use the one-light theme.
+Base values for light theme are :
+
+  * saturation: 1
+  * brightness: 98
