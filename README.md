@@ -24,3 +24,9 @@ Base values for light theme are :
 
   * saturation: 1
   * brightness: 98
+
+
+## Known limitations
+This package works by creating copies of the original one-dark-syntax theme and changing theme variable.
+This makes the configuration and the first project launch a bit slow.
+This also clutters your packages directory with generated themes. (You could delete them without problem).
