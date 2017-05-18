@@ -27,6 +27,5 @@ Base values for light theme are :
 
 
 ## Known limitations
-This package works by creating copies of the original one-dark-syntax theme and changing theme variable.
+This package works by creating copies of the original one-dark-syntax theme and virtualy changing the current theme.
 This makes the configuration and the first project launch a bit slow.
-This also clutters your packages directory with generated themes. (You could delete them without problem).

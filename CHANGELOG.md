@@ -1,3 +1,7 @@
+## 2.0.0 Best of both worlds
+* Fix themes between windows being synchronized.
+* Fix ui parts not being refreshed.
+
 ## 1.0.0 Different
 * Rewrite to remove patching atom and instead copy original theme. This allow caching and fast startup time (not the project's first startup though.)
 
