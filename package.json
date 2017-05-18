@@ -1,7 +1,7 @@
 {
   "name": "one-theme-color-by-project",
   "main": "./lib/one-theme-color-by-project",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Make color variants of atom's one-dark theme depending on the current project(s) name. If you use one-light please adapt configuration options (saturation: 1, brightness: 98)",
   "keywords": [],
   "repository": "https://github.com/paradoxxxzero/atom-one-theme-color-by-project",
